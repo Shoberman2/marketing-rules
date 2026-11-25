@@ -246,7 +246,7 @@ From `miqdadbadjuber/anti-slop`, `coreyhaines31/marketingskills` (`ai-tells.md`)
 5. **Colon reveals:** "The secret: consistency."
 6. **Reflexive tricolons:** "Fast, secure, and scalable."
 7. **Unattributed percentages:** "90% of teams..." (cite primary source + date, or cut).
-8. **Em dashes (`-`).** Zero anywhere. Use periods, colons or commas.
+8. **Em dashes.** Zero anywhere. Use periods, colons or commas.
 9. **Describing the obvious asset:** "Here is a photo of..."
 10. **Engagement bait:** "Like if you agree", "Reply YES", "Comment for the link", "Tag 3 friends." Officially penalized across platforms.
 11. **Hollow question headlines & outrage-bait on news:** State the verified tension plainly. Never harass, defame or pass off AI-generated images as real photographs.
